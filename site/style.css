@@ -14,7 +14,7 @@ body {
 }
 
 #logo-img {
-	background: url('file:///C:/Users/Youssef/OneDrive/Pictures/Saved%20Pictures/restaurant-logo_large.png') no-repeat;
+	background: url('https://raw.githubusercontent.com/JonnPDF/coursera-html/main/site/Images/restaurant-logo_large.png') no-repeat;
 	width: 150px;
 	height: 150px;
 	margin: 10px 15px 10px 0;
